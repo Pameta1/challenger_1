@@ -1,5 +1,6 @@
 ## Análisis de Ventas, rendimiento y reseñas de 4 tiendas de Alura Store.
-###Descripción del proyecto
+#### Descripción del proyecto
+
 Este proyecto tiene como objetivo analizar el rendimiento de cuatro tiendas a partir de sus datos de ventas, productos, calificaciones y ubicación geográfica. El análisis permite identificar cuál de las tiendas presenta el menor desempeño general, con el fin de recomendar su venta antes de iniciar un nuevo emprendimiento.
 
 📁 Datos utilizados
